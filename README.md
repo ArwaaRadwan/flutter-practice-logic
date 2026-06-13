@@ -1,16 +1,18 @@
 # practice_logic
+A Flutter practice project demonstrating common UI selection patterns:
 
-A new Flutter project.
+- Single Selection
+- Image Selection Gallery
+- Toggle Selection
+- Multi Selection
 
-## Getting Started
+## Features
+- State Management using setState
+- Basic Animations
+- Interactive UI Components
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+assets/screenshots/image_selection.png
+assets/screenshots/single_selection.png
+assets/screenshots/multi_selection.png
+assets/screenshots/toggle_selection.png
